@@ -48,5 +48,3 @@ Add scores/kill counters.
     2. You are advised to start as early as possible in order to be able to finish on time.
     3. The assignment can be completed in ​ **pairs** ​.
     4. All assignment submissions will be checked for plagiarism.
-
-
